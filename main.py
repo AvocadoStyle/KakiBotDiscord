@@ -1,2 +1,5 @@
-print("hey")
-print("hey2")
+
+
+
+if __name__ == '__main__':
+    print("hey")
